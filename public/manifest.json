@@ -1,0 +1,32 @@
+{
+	"short_name": "ФабрикаРекламы",
+	"name": "Официальный сайт Фабрики Рекламы в Усть-Илимске",
+	"icons": [
+		{
+			"src": "favicon.ico",
+			"sizes": "16x16"
+		},
+		{
+			"src": "favicon32.ico",
+			"sizes": "32x32"
+		},
+		{
+			"src": "favicon256.ico",
+			"sizes": "256x256"
+		},
+		{
+			"src": "logo192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "logo512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
